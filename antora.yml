@@ -1,7 +1,7 @@
 name: guides
 title: Guides
 version: 0.1.0
-start_page: index.adoc
+start_page: guides.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
